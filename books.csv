@@ -1,0 +1,26 @@
+isbn,title,author,is_borrowed
+001,Malgudi Days,R.K. Narayan,False
+002,The God of Small Things,Arundhati Roy,False
+003,Midnight's Children,Salman Rushdie,False
+004,The White Tiger,Aravind Adiga,False
+005,A Suitable Boy,Vikram Seth,False
+006,The Namesake,Jhumpa Lahiri,False
+007,Iqbal,Iqbal Muhammad,False
+008,Clean Code,Robert C. Martin,False
+009,Python Basics,Hassan Ali,False
+010,Database Design,Zahid Hussain,False
+011,Web Development,Fatima Khan,False
+012,Harry Potter,J.K. Rowling,False
+013,The Hobbit,J.R.R. Tolkien,False
+014,1984,George Orwell,False
+015,Pride and Prejudice,Jane Austen,False
+016,The Alchemist,Paulo Coelho,False
+017,Head First Design Patterns,Eric Freeman,False
+018,Introduction to Algorithms,Thomas H. Cormen,False
+019,Automate the Boring Stuff,Al Sweigart,False
+020,The Pragmatic Programmer,David Thomas,False
+021,To Kill a Mockingbird,Harper Lee,False
+022,The Great Gatsby,F. Scott Fitzgerald,False
+023,Wuthering Heights,Emily Bronte,False
+024,Jane Eyre,Charlotte Bronte,False
+025,Sherlock Holmes,Arthur Conan Doyle,False
